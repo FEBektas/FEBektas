@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FEBektas.
-- 👀 I’m interested in WebDEV.
-- 🌱 I’m currently learning HTML-CSS.
-- 💞️ I’m looking to collaborate on Qa.
+- 🌱 I’m currently learning Web-Dev, Python, QA Methodologies. 
+- 💞️ I’m looking to collaborate on various projects to expend my skills.
 - 📫 How to reach me: B.e.florin@outlook.com
 
 <!---
