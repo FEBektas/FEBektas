@@ -3,6 +3,8 @@
 - 💞️ I’m looking to collaborate on various projects to expend my skills.
 - 📫 How to reach me: B.e.florin@outlook.com
 
+**Counter Started from September 2024**
+
 ![](
 https://komarev.com/ghpvc/?username=FEBektas&label=PROFILE+VIEWS)
 <!---
